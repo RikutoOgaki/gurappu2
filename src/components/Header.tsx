@@ -1,7 +1,7 @@
-import {Box,Flex,Center} from '@chakra-ui/react'
+import { Box, Flex, Center } from '@chakra-ui/react'
 
-export default function HeaderComonents(){
-    return(
+export default function HeaderComonents() {
+    return (
         <>
             <Box w={'100%'}>
                 <Flex w={'100%'} justifyContent={'flex-end'}>
